@@ -33,3 +33,7 @@ Proyek ini adalah aplikasi berbasis STM32 yang menggunakan tampilan OLED SSD1306
 ## Catatan
 - Pastikan untuk melakukan debouncing pada tombol untuk menghindari pembacaan ganda.
 - Sesuaikan delay pada pembacaan ADC dan pembaruan tampilan sesuai kebutuhan.
+
+##Gambar Hardware
+![img 1](Photo/GR3.jpeg)
+
