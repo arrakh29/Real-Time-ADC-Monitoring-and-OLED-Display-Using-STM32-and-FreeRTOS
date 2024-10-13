@@ -35,6 +35,13 @@ Proyek ini adalah aplikasi berbasis STM32 yang menggunakan tampilan OLED SSD1306
 - Sesuaikan delay pada pembacaan ADC dan pembaruan tampilan sesuai kebutuhan.
 
 ## Gambar Hardware
-![img 1](Photos/GR2.jpeg)
 ![img 1](Photos/GR3.jpeg)
+
+## Gambar Pinout
+![img 1](Photos/GR2.jpeg)
+
+## Uji Coba
+<div align="center" style="padding: 0; margin: 0;">
+  <video src="https://drive.google.com/uc?export=view&id=FILE_ID" controls style="border: none; outline: none; max-width: 100%; height: auto;"></video>
+</div>
 
