@@ -42,7 +42,7 @@ Proyek ini adalah aplikasi berbasis STM32 yang menggunakan tampilan OLED SSD1306
 
 ## Uji Coba
 <div align="center" style="padding: 0; margin: 0;">
-  <video src="https://drive.google.com/uc?export=view&id=1qdEv-Bd7zJ2TDX4tkoUju7x1SGK50q7A" controls style="border: none; outline: none; max-width: 100%; height: auto;"></video>
+  ![ujicoba GIF](https://github.com/username/repository/raw/main/Photos/ujicoba.gif)
 </div>
 
 
