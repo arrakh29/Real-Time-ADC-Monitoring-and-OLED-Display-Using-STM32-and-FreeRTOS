@@ -34,6 +34,9 @@ Proyek ini adalah aplikasi berbasis STM32 yang menggunakan tampilan OLED SSD1306
 - Pastikan untuk melakukan debouncing pada tombol untuk menghindari pembacaan ganda.
 - Sesuaikan delay pada pembacaan ADC dan pembaruan tampilan sesuai kebutuhan.
 
+## Diagram System
+<img src="Diagram system/GR3.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+
 ## Gambar Hardware
 <img src="Photos/GR3.jpeg" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
 
