@@ -44,7 +44,8 @@ Proyek ini adalah aplikasi berbasis STM32 yang menggunakan tampilan OLED SSD1306
 <img src="Photos/pinout.jpeg" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
 
 ## Uji Coba
-![mp4](Photos/ujicoba.gif)
+<img src="Ex_4.gif" alt="Uji Coba GIF" width="400" height="300">
+
 
 
 
